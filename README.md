@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/infsahitya" target="blank"><img src="https://img.shields.io/twitter/follow/infsahitya?logo=twitter&style=for-the-badge" alt="infsahitya" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/infsahitya](https://github.com/infsahitya)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/infsahitya)
 
-- 📝 Know more about me [https://www.linkedin.com/](https://www.linkedin.com/)
+- 📝 Know more about me in my [LinkedIn](https://www.linkedin.com/in/infsahitya) profile
 
 - 💬 Ask me about **ReactJS, React Native, NodeJS, NestJS, MedusaJS, etc.**
 
 - 📫 How to reach me **infsahitya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cvuDwObiB3Td3UojuccKHaocnK5Blm6L/view?usp=sharing](https://drive.google.com/file/d/1cvuDwObiB3Td3UojuccKHaocnK5Blm6L/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1cvuDwObiB3Td3UojuccKHaocnK5Blm6L/view?usp=sharing)
 
 - ⚡ Fun fact **Always a feeling of imposter syndrome 🥲**
 
